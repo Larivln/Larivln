@@ -3,7 +3,7 @@ Olá! Eu sou a Larissa,
 Estou estudando e desenvolvendo em Python e SQL.
 
 <div>
-  <a href="https://beacons.ai/rafaballerini">
+  <a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larivln&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larivln&layout=compact&langs_count=16&theme=midnight-purple" />
   </a>

@@ -1,6 +1,6 @@
 
 Olá! Eu sou a Larissa,
-Estou estudando e desenvolvendo em Python e SQL.
+Estou estudando e desenvolvendo.
 
 <div>
   <a>
